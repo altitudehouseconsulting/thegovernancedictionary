@@ -70,7 +70,7 @@
     let tableData = [];
 
     // Load CSV file
-    fetch('governance_dictionary_with_dates.csv')
+    fetch('governance_dictionary.csv')
       .then(response => response.text())
       .then(data => {
         const lines = data.split('\n');
