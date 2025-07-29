@@ -9,10 +9,20 @@
     th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
     th { background-color: #f0f0f0; }
     input, select { margin: 5px; padding: 5px; }
+    .disclaimer { margin-top: 40px; font-size: 0.9em; color: #555; background: #f9f9f9; padding: 15px; border: 1px solid #ccc; }
   </style>
 </head>
 <body>
   <h1>Governance Dictionary</h1>
+  <p>This site provides a <strong>searchable dictionary of governance concepts</strong> aligned with key regulatory and industry frameworks. For each concept, you'll find:</p>
+  <ul>
+    <li><strong>Application Guidance</strong></li>
+    <li><strong>Real-World Failure Scenarios</strong></li>
+    <li><strong>Corrective Actions and Best Practices</strong></li>
+    <li><strong>Official Code References and Footnotes</strong></li>
+  </ul>
+  <p>Frameworks and standards include: ICAO, FAA, DO-326A, NERC/FERC, ISO/IEC, NIST, COBIT 5, ITIL, and DAMA-DMBOK.</p>
+
   <label for="subjectFilter">Filter by Subject Area:</label>
   <select id="subjectFilter">
     <option value="">All</option>
@@ -41,6 +51,20 @@
     </thead>
     <tbody></tbody>
   </table>
+
+  <div class="disclaimer">
+    <h3>⚖️ Disclaimer</h3>
+    <p>The information presented in this Governance Framework Dictionary is intended for <strong>educational and informational purposes only</strong>. It does not constitute legal advice, regulatory guidance, or compliance certification.</p>
+    <p>While every effort has been made to ensure accuracy and relevance, the content may not reflect the most current interpretations of the referenced frameworks or laws. Users are responsible for validating all information against official publications and regulatory authorities.</p>
+    <p>By using this site, you acknowledge that:
+      <ul>
+        <li>The material is provided “as is” without warranties of any kind</li>
+        <li>No liability is assumed for decisions made based on the use of this resource</li>
+        <li>You are responsible for determining the suitability of this information for your specific organization or use case</li>
+      </ul>
+    </p>
+    <p>For authoritative guidance, consult with qualified legal, regulatory, or compliance professionals and refer directly to governing bodies such as ICAO, FAA, RTCA, NERC, FERC, ISO, NIST, or DAMA International.</p>
+  </div>
 
   <script>
     let tableData = [];
