@@ -1,0 +1,3502 @@
+[
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9600)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4461)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4874)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2050)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9694)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7826)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3423)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9879)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9818)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8941)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4517)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3591)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7396)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6104)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6954)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8665)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6663)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #3851)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #9406)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1893)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1243)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9157)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1322)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6656)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2428)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5156)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1830)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5438)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6690)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5008)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3967)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5670)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9688)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6705)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2956)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7253)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2852)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7697)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3138)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6542)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3700)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9681)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6619)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4652)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5820)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8577)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4094)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8543)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7689)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2544)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2652)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7708)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6986)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9686)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9894)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4468)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4156)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6541)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4718)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8220)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2193)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7516)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7919)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2308)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7175)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7870)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3003)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #3255)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1902)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8902)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7418)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5898)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2092)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8215)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1392)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1469)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9743)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8090)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8307)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2991)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6812)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1379)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2484)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5974)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3986)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9736)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4690)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3991)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3025)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3151)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6166)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8809)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8438)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6326)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4613)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4047)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5247)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6412)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8224)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6529)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5480)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1681)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3151)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8816)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9128)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6769)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6727)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7114)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1004)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7275)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1354)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4547)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9783)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9852)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4453)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8842)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2899)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2390)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1546)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8740)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7022)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7143)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5154)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3176)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6956)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8915)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8610)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9997)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3551)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9638)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8567)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2004)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2199)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9167)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5457)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9032)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9565)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1670)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8022)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9430)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7911)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9262)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6217)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6388)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8114)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1254)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9836)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7679)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4268)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9799)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7978)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2543)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8079)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9328)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9843)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2741)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6610)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5014)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4061)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8461)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3634)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1249)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4349)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4705)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9901)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6424)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9632)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7128)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5195)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8649)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7859)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5725)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6488)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1122)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7147)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2784)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2931)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3799)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6500)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #3286)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8859)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4044)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2702)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6069)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7217)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7760)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2452)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5446)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1653)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6541)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9773)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7395)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8424)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1469)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9424)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3529)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7757)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8925)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5106)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6064)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8552)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2638)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6591)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9053)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1556)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2065)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1626)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2291)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2220)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2004)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4765)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5776)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9152)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3610)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #9201)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6691)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7231)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4917)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5723)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8600)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5235)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5384)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1581)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6976)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5328)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3507)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9154)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8548)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7282)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5755)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7702)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3903)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2064)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7193)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2419)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5896)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6408)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8303)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9492)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8535)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5020)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6263)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9721)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3106)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5856)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2564)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #3164)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3267)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1194)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5141)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3820)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8625)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2611)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9467)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7584)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7587)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8881)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9277)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1542)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3980)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7293)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5584)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2860)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2318)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8572)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1006)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6134)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5499)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7506)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5177)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8370)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7332)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7752)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5663)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1037)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8426)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3850)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4499)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #3933)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6114)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9476)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7312)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8831)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4087)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6375)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5248)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2656)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2029)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7130)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5366)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1706)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1321)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5049)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8497)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8668)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6927)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6628)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5611)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2220)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2580)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4619)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9162)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4133)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4829)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4601)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1571)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2217)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2392)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1039)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3745)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9195)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4297)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7439)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2996)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1997)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7207)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7967)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3735)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9635)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #9332)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4227)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5757)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3258)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6861)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4303)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2707)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4665)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #7415)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4242)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1191)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7368)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5060)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1451)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8917)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2570)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2075)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6654)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1374)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2056)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4336)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4891)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4747)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6780)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #9661)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2364)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5514)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7550)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8770)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3857)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1411)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6222)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5811)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9955)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8539)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6069)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #3687)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7163)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2778)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #3069)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5993)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9331)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7951)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2899)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2893)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3407)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6206)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1062)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7670)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6732)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1787)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6610)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5177)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9029)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6058)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2669)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2206)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6182)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8998)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6954)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #8462)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6084)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6203)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2835)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #5877)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8235)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2602)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8974)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6954)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6046)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7429)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2597)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5263)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8417)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4771)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1471)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2235)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2605)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5259)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1705)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7113)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8574)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5512)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9729)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1558)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6603)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7128)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1858)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1107)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #1274)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6378)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4755)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2216)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1846)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5378)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7591)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6606)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8092)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2246)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3559)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5140)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9315)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1646)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4105)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #3451)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #6897)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8414)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1525)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1623)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1232)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #5946)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7716)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #9138)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6629)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #9579)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8966)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8280)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8384)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2346)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3685)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2324)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "System security",
+    "example": "AirAsia QZ8501 manual override errors (Ref #9930)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2625)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Alaska Airlines rudder actuator failure (Ref #1995)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #2586)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7320)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2669)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #1995)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #8483)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #3741)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #9558)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7062)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #7580)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8752)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #4076)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8604)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8401)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7515)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7415)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Alaska Airlines rudder actuator failure (Ref #2219)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2538)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #3572)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "DO-326A",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4954)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #3122)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #3820)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4742)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #9277)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Fatigue control",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #4994)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Alaska Airlines rudder actuator failure (Ref #4752)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Flight Ops Manual",
+    "function": "Fatigue control",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2861)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Part 121.557",
+    "function": "Fatigue control",
+    "example": "Southwest 1380 uncontained engine failure (Ref #4934)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7094)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2864)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7440)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2594)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6876)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8045)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7605)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1330)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #1462)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #8187)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "ICAO SMS",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #5577)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "AirAsia QZ8501 manual override errors (Ref #2429)",
+    "consequence": "NTSB report issued with operational recommendations"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #6579)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #6823)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #6701)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1280)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Part 121.557",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #7073)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #9643)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "Flight Ops Manual",
+    "function": "System security",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #2801)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "Flight Ops Manual",
+    "function": "Command structure",
+    "example": "AirAsia QZ8501 manual override errors (Ref #6356)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #1888)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Alaska Airlines rudder actuator failure (Ref #7147)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Operational Oversight",
+    "framework": "ICAO SMS",
+    "function": "System security",
+    "example": "Colgan Air 3407 pilot fatigue issues (Ref #8103)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #8952)",
+    "consequence": "Crew retraining and policy revision mandated"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "FAA Part 117",
+    "function": "Contingency planning",
+    "example": "Southwest 1380 uncontained engine failure (Ref #5274)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "System security",
+    "example": "Southwest 1380 uncontained engine failure (Ref #2632)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Safety Management",
+    "framework": "DO-326A",
+    "function": "Contingency planning",
+    "example": "AirAsia QZ8501 manual override errors (Ref #4315)",
+    "consequence": "FAA fined operator $1.2M for non-compliance"
+  },
+  {
+    "governance_area": "Flight Time Limits",
+    "framework": "Part 121.557",
+    "function": "Command structure",
+    "example": "Alaska Airlines rudder actuator failure (Ref #5614)",
+    "consequence": "Certificate action initiated by FAA"
+  },
+  {
+    "governance_area": "Emergency Procedures",
+    "framework": "Flight Ops Manual",
+    "function": "Risk assessment",
+    "example": "Southwest 1380 uncontained engine failure (Ref #3475)",
+    "consequence": "Operator placed under increased surveillance"
+  },
+  {
+    "governance_area": "Maintenance Oversight",
+    "framework": "FAA Part 117",
+    "function": "Risk assessment",
+    "example": "Lion Air 610 MCAS malfunction and poor oversight (Ref #7245)",
+    "consequence": "Operator placed under increased surveillance"
+  }
+]
