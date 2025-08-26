@@ -22,10 +22,8 @@ main {
 input#searchInput {
   width: 100%;
   padding: 0.75rem;
-  margin-bottom: 1.5rem;
-  border: 1px solid #b0c7d4;
-  border-radius: 5px;
-  font-size: 1rem;
+  margin: 1rem 0;
+  border: 1px solid #ccc;
 }
 table {
   width: 100%;
@@ -36,12 +34,17 @@ thead {
   color: white;
 }
 th, td {
-  text-align: left;
   padding: 0.75rem;
   border-bottom: 1px solid #ccc;
 }
 tr:nth-child(even) {
   background-color: #e6f2fb;
+}
+.checkbox-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
 }
 footer {
   margin-top: 2rem;
@@ -49,5 +52,11 @@ footer {
   background-color: #f0f6fc;
   text-align: center;
   font-size: 0.9rem;
-  color: #333;
+}
+#pagination {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
 }
