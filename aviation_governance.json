@@ -1,0 +1,72 @@
+[
+    {
+        "governance_area": "Safety Management",
+        "framework": "ICAO SMS",
+        "function": "Risk management, policy, assurance, promotion",
+        "example": "Crew fails to report unstable approach event",
+        "consequence": "Systemic trend missed; future runway overrun"
+    },
+    {
+        "governance_area": "Flight Time Limits",
+        "framework": "FAA Part 117",
+        "function": "Fatigue risk governance",
+        "example": "Pilot scheduled beyond 100 hrs in 28 days",
+        "consequence": "Certificate action, civil penalty, fatigue-induced error"
+    },
+    {
+        "governance_area": "Operational Oversight",
+        "framework": "Flight Operations Manual (FOM)",
+        "function": "Command decision structure",
+        "example": "First Officer makes decision reserved for Captain",
+        "consequence": "Violation of SOP; potential enforcement or retraining"
+    },
+    {
+        "governance_area": "Safety Reporting",
+        "framework": "ASAP (Voluntary)",
+        "function": "Confidential, non-punitive reporting",
+        "example": "Pilot self-reports altitude bust",
+        "consequence": "Issue analyzed, no penalty under ASAP protections"
+    },
+    {
+        "governance_area": "Performance Monitoring",
+        "framework": "FOQA",
+        "function": "Flight data monitoring for trends",
+        "example": "Airline detects high-speed landings trend",
+        "consequence": "Training review or company procedural updates"
+    },
+    {
+        "governance_area": "Cybersecurity in Flight Systems",
+        "framework": "DO-326A",
+        "function": "Avionics security assurance",
+        "example": "Insecure update method exposes aircraft system",
+        "consequence": "Type certification denied; airworthiness challenge"
+    },
+    {
+        "governance_area": "Maintenance Oversight",
+        "framework": "Part 121.373",
+        "function": "Continuous airworthiness program",
+        "example": "Maintenance not signed off properly in logbook",
+        "consequence": "FAA investigation, grounding, potential fine"
+    },
+    {
+        "governance_area": "Crew Resource Management",
+        "framework": "ICAO SMS / FAA AC 120-51E",
+        "function": "Communication, leadership, decision-making",
+        "example": "Captain ignores input from FO during checklist",
+        "consequence": "Runway incursion or accident risk; failure of CRM"
+    },
+    {
+        "governance_area": "Emergency Procedures",
+        "framework": "Part 121.557 / FOM",
+        "function": "Command authority in emergency",
+        "example": "Captain delays emergency declaration",
+        "consequence": "Loss of ATC priority; delayed response; NTSB scrutiny"
+    },
+    {
+        "governance_area": "Training Compliance",
+        "framework": "Part 121 Subpart N",
+        "function": "Recurrent training governance",
+        "example": "Pilot flies without completing quarterly sim",
+        "consequence": "Removal from flight schedule; violation of regs"
+    }
+]
