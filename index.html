@@ -1,135 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Governance Dictionary</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    th { background-color: #f0f0f0; }
-    input, select { margin: 5px; padding: 5px; }
-    .disclaimer { margin-top: 40px; font-size: 0.9em; color: #555; background: #f9f9f9; padding: 15px; border: 1px solid #ccc; }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aviation Governance Dictionary</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Governance Dictionary</h1>
-  <p>This site provides a <strong>searchable dictionary of governance concepts</strong> aligned with key regulatory and industry frameworks. For each concept, you'll find:</p>
-  <ul>
-    <li><strong>Application Guidance</strong></li>
-    <li><strong>Real-World Failure Scenarios</strong></li>
-    <li><strong>Corrective Actions and Best Practices</strong></li>
-    <li><strong>Official Code References and Footnotes</strong></li>
-  </ul>
-  <p>Frameworks and standards include: SOX, ICAO, FAA, DO-326A, NERC/FERC, ISO/IEC, NIST, COBIT 5, ITIL, and DAMA-DMBOK.</p>
+  <header>
+    <img src="logo.png" alt="Altitude House Consulting Logo" class="logo" />
+    <h1>Aviation Governance Dictionary</h1>
+  </header>
 
-  <label for="subjectFilter">Filter by Subject Area:</label>
-  <select id="subjectFilter">
-    <option value="">All</option>
-  </select>
+  <main>
+    <input type="text" id="searchInput" placeholder="Search governance area, framework, or example..." />
+    <table id="governanceTable">
+      <thead>
+        <tr>
+          <th>Governance Area</th>
+          <th>Framework</th>
+          <th>Function</th>
+          <th>Example</th>
+          <th>Consequence</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
 
-  <label for="frameworkFilter">Filter by Framework or Law:</label>
-  <select id="frameworkFilter">
-    <option value="">All</option>
-  </select>
-
-  <label for="searchBox">Search:</label>
-  <input type="text" id="searchBox" placeholder="Enter keyword"/>
-
-  <table id="dictionaryTable">
-    <thead>
-      <tr>
-        <th>Subject Area</th>
-        <th>Framework or Law</th>
-        <th>Application Description</th>
-        <th>Failure Scenario</th>
-        <th>Corrective Application</th>
-        <th>Source/Footnote</th>
-        <th>Create Date</th>
-        <th>Update Date</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
-
-  <div class="disclaimer">
-    <h3>⚖️ Disclaimer</h3>
-    <p>The information presented in this Governance Framework Dictionary is intended for <strong>educational and informational purposes only</strong>. It does not constitute legal advice, regulatory guidance, or compliance certification.</p>
-    <p>While every effort has been made to ensure accuracy and relevance, the content may not reflect the most current interpretations of the referenced frameworks or laws. Users are responsible for validating all information against official publications and regulatory authorities.</p>
-    <p>By using this site, you acknowledge that:
-      <ul>
-        <li>The material is provided “as is” without warranties of any kind</li>
-        <li>No liability is assumed for decisions made based on the use of this resource</li>
-        <li>You are responsible for determining the suitability of this information for your specific organization or use case</li>
-      </ul>
+  <footer>
+    <p class="disclaimer">
+      <strong>Disclaimer:</strong> This tool is intended for educational and awareness purposes only. It does not constitute legal advice or regulatory guidance. Users are responsible for verifying all requirements and updates with their appropriate aviation authority (FAA, EASA, ICAO, etc.).
     </p>
-    <p>For authoritative guidance, consult with qualified legal, regulatory, or compliance professionals and refer directly to governing bodies such as ICAO, FAA, RTCA, NERC, FERC, ISO, NIST, or DAMA International.</p>
-  </div>
+  </footer>
 
-  <script>
-    let tableData = [];
-
-    // Load CSV file
-    fetch('governance_dictionary.csv')
-      .then(response => response.text())
-      .then(data => {
-        const lines = data.split('\n');
-        const headers = lines[0].split(',');
-        tableData = lines.slice(1).map(row => row.split(',')).filter(row => row.length === headers.length);
-        populateFilters();
-        renderTable();
-      });
-
-    function sanitize(str) {
-      return str.replace(/[^\w\s]/gi, '');
-    }
-
-    function populateFilters() {
-      const subjectSet = new Set();
-      const frameworkSet = new Set();
-      tableData.forEach(row => {
-        subjectSet.add(row[0]);
-        frameworkSet.add(row[1]);
-      });
-      subjectSet.forEach(val => {
-        const opt = document.createElement('option');
-        opt.value = val; opt.textContent = val;
-        document.getElementById('subjectFilter').appendChild(opt);
-      });
-      frameworkSet.forEach(val => {
-        const opt = document.createElement('option');
-        opt.value = val; opt.textContent = val;
-        document.getElementById('frameworkFilter').appendChild(opt);
-      });
-    }
-
-    function renderTable() {
-      const tbody = document.querySelector('#dictionaryTable tbody');
-      tbody.innerHTML = '';
-      const subject = document.getElementById('subjectFilter').value;
-      const framework = document.getElementById('frameworkFilter').value;
-      const search = sanitize(document.getElementById('searchBox').value.toLowerCase());
-
-      tableData.forEach(row => {
-        const matchSubject = !subject || row[0] === subject;
-        const matchFramework = !framework || row[1] === framework;
-        const searchText = row.join(' ').toLowerCase();
-        const matchSearch = !search || sanitize(searchText).includes(search);
-        if (matchSubject && matchFramework && matchSearch) {
-          const tr = document.createElement('tr');
-          row.forEach(cell => {
-            const td = document.createElement('td');
-            td.textContent = cell;
-            tr.appendChild(td);
-          });
-          tbody.appendChild(tr);
-        }
-      });
-    }
-
-    document.getElementById('subjectFilter').addEventListener('change', renderTable);
-    document.getElementById('frameworkFilter').addEventListener('change', renderTable);
-    document.getElementById('searchBox').addEventListener('input', renderTable);
-  </script>
+  <script src="script.js"></script>
 </body>
 </html>
