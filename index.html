@@ -14,7 +14,18 @@
   </header>
 
   <main>
-    <input type="text" id="searchInput" placeholder="Search governance area, framework, or example..." />
+    <div class="filters">
+      <label><strong>Filter by Governance Area:</strong></label>
+      <div id="governanceAreaFilter" class="checkbox-group"></div>
+
+      <label><strong>Filter by Framework:</strong></label>
+      <div id="frameworkFilter" class="checkbox-group"></div>
+
+      <label><strong>Filter by Function:</strong></label>
+      <div id="functionFilter" class="checkbox-group"></div>
+    </div>
+
+    <input type="text" id="searchInput" placeholder="Search all fields..." />
     <table id="governanceTable">
       <thead>
         <tr>
@@ -27,6 +38,12 @@
       </thead>
       <tbody></tbody>
     </table>
+
+    <div id="pagination">
+      <button id="prevPage">Previous</button>
+      <span id="pageInfo"></span>
+      <button id="nextPage">Next</button>
+    </div>
   </main>
 
   <footer>
@@ -35,38 +52,6 @@
     </p>
   </footer>
 
-  <script>
-    async function loadGovernanceData() {
-      const response = await fetch('aviation_governance_1500.json');
-      const data = await response.json();
-      const tbody = document.querySelector('#governanceTable tbody');
-      const searchInput = document.getElementById('searchInput');
-
-      function renderRows(filter = '') {
-        tbody.innerHTML = '';
-        let filtered = data.filter(record =>
-          Object.values(record).some(value =>
-            value.toLowerCase().includes(filter.toLowerCase())
-          )
-        );
-        filtered.forEach(record => {
-          const row = document.createElement('tr');
-          row.innerHTML = `
-            <td>${record.governance_area}</td>
-            <td>${record.framework}</td>
-            <td>${record.function}</td>
-            <td>${record.example}</td>
-            <td>${record.consequence}</td>
-          `;
-          tbody.appendChild(row);
-        });
-      }
-
-      renderRows();
-      searchInput.addEventListener('input', e => renderRows(e.target.value));
-    }
-
-    loadGovernanceData();
-  </script>
+  <script src="script.js"></script>
 </body>
 </html>
